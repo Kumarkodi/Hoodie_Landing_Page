@@ -47,6 +47,7 @@ Hoodie_Landing_Page/
 ## Demo
 
 To view the site, simply open `index.html` in your browser.
+https://kumarkodi.github.io/Hoodie_Landing_Page/
 
 ## Credits
 
